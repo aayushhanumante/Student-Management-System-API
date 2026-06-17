@@ -1,0 +1,6 @@
+package com.student.student_api.entity;
+
+public enum AttendanceStatus {
+    PRESENT,
+    ABSENT
+}
